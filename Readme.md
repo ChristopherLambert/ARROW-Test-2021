@@ -1,6 +1,6 @@
 # CHRISTOPHER LAMBERT 
 
-The test was solved, added DIa console.app added some example test with NUnit -- 2021/08/23
+The test was solved, added DI in the console.app added some example test with NUnit -- 2021/08/23
 
 # Arrow Developer Test Instructions
 
