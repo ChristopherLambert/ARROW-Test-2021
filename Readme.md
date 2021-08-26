@@ -1,18 +1,22 @@
+# CHRISTOPHER LAMBERT 
+
+The test was solved, added DIa console.app added some example test with NUnit -- 2021/08/23
+
 # Arrow Developer Test Instructions
 
 In the 'PaymentService.cs' file you will find a method for making a payment. At a high level the steps for making a payment are:
 
  1. Lookup the account the payment is being made from.
  2. Check that the account is in a valid state to make the payment.
- 3. Deduct the payment amount from the account’s balance and update the account in the database.
+ 3. Deduct the payment amount from the accountâ€™s balance and update the account in the database.
 
-What we’d like you to do is refactor the code with the following things in mind:
+What weâ€™d like you to do is refactor the code with the following things in mind:
 
  - Adherence to SOLID principals
  - Testability
  - Readability
 
-We’d also like you to add some unit tests to the Arrow.DeveloperTest.Tests project to show how you would test the code that you’ve produced and run the PaymentService from the Arrow.DeveloperTest.Runner console application.
+Weâ€™d also like you to add some unit tests to the Arrow.DeveloperTest.Tests project to show how you would test the code that youâ€™ve produced and run the PaymentService from the Arrow.DeveloperTest.Runner console application.
 
 The only specific 'rules' are:
 
