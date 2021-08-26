@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BPCOc5/ZBISm70JniYvoiRNWXbmmuZs7cUrzm3BVOlcDh6aaDmVFWcp1rY1G+0OcFCh/QD6XygsOOPS/JXzcCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ChristopherSouza.AzureAD\\Downloads\\wetransfer_arrow_2021-08-23_1029\\Arrow\\Arrow\\DeveloperTest\\Arrow.DeveloperTest\\Arrow.DeveloperTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ChristopherSouza.AzureAD\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\ChristopherSouza.AzureAD\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\ChristopherSouza.AzureAD\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
